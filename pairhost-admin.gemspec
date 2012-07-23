@@ -16,7 +16,7 @@ Gem::Specification.new do |gem|
   gem.version       = Pairhost::Admin::VERSION
 
   gem.add_runtime_dependency "fog", "~> 1.3.1"
-  gem.add_runtime_dependency "vagrant", "~> 0.5.4"
+  gem.add_runtime_dependency "vagrant", "~> 1.0.3"
 
   gem.add_development_dependency 'rake', '~> 0.9.2.2'
 
